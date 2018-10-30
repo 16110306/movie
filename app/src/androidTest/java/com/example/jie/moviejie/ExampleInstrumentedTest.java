@@ -1,4 +1,4 @@
-package com.example.baris.moviebox;
+package com.example.jie.moviejie;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

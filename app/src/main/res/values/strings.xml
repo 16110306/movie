@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MovieBox</string>
+    <string name="app_name">MovieJie</string>
     <string name="sort">Sort</string>
     <string name="highest_rated">Highest Rated</string>
     <string name="most_popular">Most Popular</string>

@@ -1,4 +1,4 @@
-package com.example.baris.moviebox.utilities;
+package com.example.jie.moviejie.utilities;
 
 import android.net.Uri;
 

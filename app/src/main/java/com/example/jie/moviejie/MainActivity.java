@@ -1,23 +1,19 @@
-package com.example.baris.moviebox;
+package com.example.jie.moviejie;
 
 import android.content.Intent;
 import android.os.AsyncTask;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.GridLayoutManager;
-import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
-import android.util.Log;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
-import android.widget.ArrayAdapter;
-import android.widget.Button;
 import android.widget.ProgressBar;
 
-import com.example.baris.moviebox.utilities.JsonUtils;
-import com.example.baris.moviebox.utilities.NetworkUtils;
+import com.example.jie.moviejie.utilities.JsonUtils;
+import com.example.jie.moviejie.utilities.NetworkUtils;
 
 import org.json.JSONException;
 

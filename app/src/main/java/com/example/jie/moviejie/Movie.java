@@ -1,6 +1,6 @@
-package com.example.baris.moviebox;
+package com.example.jie.moviejie;
 
-import com.example.baris.moviebox.utilities.NetworkUtils;
+import com.example.jie.moviejie.utilities.NetworkUtils;
 
 /**
  * Created by baris on 08.01.2017.

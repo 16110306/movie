@@ -1,6 +1,6 @@
-package com.example.baris.moviebox.utilities;
+package com.example.jie.moviejie.utilities;
 
-import com.example.baris.moviebox.Movie;
+import com.example.jie.moviejie.Movie;
 
 import org.json.JSONArray;
 import org.json.JSONException;

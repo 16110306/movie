@@ -1,4 +1,4 @@
-package com.example.baris.moviebox;
+package com.example.jie.moviejie;
 
 import org.junit.Test;
 

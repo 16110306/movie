@@ -1,10 +1,8 @@
-package com.example.baris.moviebox;
+package com.example.jie.moviejie;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.view.Menu;
-import android.view.MenuInflater;
 import android.widget.ImageView;
 import android.widget.TextView;
 
@@ -16,7 +14,7 @@ public class MovieDetails extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_movie_details);
+        setContentView(R.layout.activity_moviejie);
         title = (TextView) findViewById(R.id.title);
         releaseDate = (TextView) findViewById(R.id.releaseDate);
         voteAverage = (TextView) findViewById(R.id.vote_average);
